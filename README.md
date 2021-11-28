@@ -22,8 +22,9 @@
 ### Languages and Tools
 
 <p align="left">
-	<img height="40" width="40" title="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
+  <img height="40" width="40" title="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
   <img height="40" width="40" title="Linux" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" />
+  <img height="40" width="40"  title="Streamlit" src="https://unpkg.com/simple-icons@5.24.0/icons/streamlit.svg" />
   <img height="40" width="40"  title="Amazon AWS" src="https://unpkg.com/simple-icons@5.24.0/icons/amazonaws.svg" />
   <img height="40" width="40"  title="Heroku Cloud" src="https://unpkg.com/simple-icons@5.24.0/icons/heroku.svg" />
   <img height="40" width="40" title="Git" src="https://unpkg.com/simple-icons@5.24.0/icons/git.svg" />
