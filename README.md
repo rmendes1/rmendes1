@@ -1,6 +1,6 @@
 # Hi, I am João! Welcome to my Github page <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<h3 align="center">🚀 Computer Engineer | Data Science | Machine Learning | Open Source ♥ | Devops  🚀</h3>
+<h3 align="center">🚀 Computer Engineer | Data Science | Machine Learning | Open Source ♥ | DevOps  🚀</h3>
 <div>
   
 <br />
