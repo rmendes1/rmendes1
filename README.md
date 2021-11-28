@@ -4,7 +4,7 @@
 <div>
   
 <br />
-<img align="right" height="300" width="500"  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" height="300" width="450"  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
  <h3> 👨🏻‍💻 About Me </h3>
 
