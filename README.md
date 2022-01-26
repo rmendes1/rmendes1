@@ -28,7 +28,11 @@
   <img height="40" width="40"  title="Amazon AWS" src="https://unpkg.com/simple-icons@5.24.0/icons/amazonaws.svg" />
   <img height="40" width="40"  title="Heroku Cloud" src="https://unpkg.com/simple-icons@5.24.0/icons/heroku.svg" />
   <img height="40" width="40" title="Git" src="https://unpkg.com/simple-icons@5.24.0/icons/git.svg" />
-  <img height="40" width="40" title="Gitlab" src="https://unpkg.com/simple-icons@5.24.0/icons/gitlab.svg" />  
+  <img height="40" width="40" title="Gitlab" src="https://unpkg.com/simple-icons@5.24.0/icons/gitlab.svg" />
+  <img height="40" width="40" title="SQLite" src="https://unpkg.com/simple-icons@5.24.0/icons/sqlite.svg" />  
+  <img height="40" width="40" title="MySQL" src="https://unpkg.com/simple-icons@5.24.0/icons/mysql.svg" /> 
+                             
+  
   
 </p>
 
