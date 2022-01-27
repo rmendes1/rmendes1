@@ -5,6 +5,7 @@
   
 <br />
 <img align="right" height="300" width="450"  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+ 
 
  <h3> 👨🏻‍💻 About Me </h3>
 
@@ -20,36 +21,32 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ### Languages and Tools
-
-<p align="left">
-  <img height="40" width="40" title="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" />
-  <img height="40" width="40" title="Linux" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" />
-  <img height="40" width="40"  title="Streamlit" src="https://unpkg.com/simple-icons@5.24.0/icons/streamlit.svg" />
-  <img height="40" width="40"  title="Amazon AWS" src="https://unpkg.com/simple-icons@5.24.0/icons/amazonaws.svg" />
-  <img height="40" width="40"  title="Heroku Cloud" src="https://unpkg.com/simple-icons@5.24.0/icons/heroku.svg" />
-  <img height="40" width="40" title="Git" src="https://unpkg.com/simple-icons@5.24.0/icons/git.svg" />
-  <img height="40" width="40" title="Gitlab" src="https://unpkg.com/simple-icons@5.24.0/icons/gitlab.svg" />
-  <img height="40" width="40" title="SQLite" src="https://unpkg.com/simple-icons@5.24.0/icons/sqlite.svg" />  
-  <img height="40" width="40" title="MySQL" src="https://unpkg.com/simple-icons@5.24.0/icons/mysql.svg" /> 
+![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-A81D33?style=flat-square&logo=linux&logoColor=ffffff)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF0000?style=flat-square&logo=streamlit&logoColor=ffffff)
+![Amazon AWS](https://img.shields.io/badge/AWS-FFA500?style=flat-square&logo=amazonaws&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
+![SQLite](https://img.shields.io/badge/-SQLite-5CB3FF?style=flat-square&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=ffffff)
                              
   
   
-</p>
 
-  Do :star: my work if you find it interesting, it helps me stay on track and be motivated
+
+ Do :star: my work if you find it interesting, it helps me stay on track and be motivated
 
 <br>
-<p align="center">
-    <a href="https://www.linkedin.com/in/joaorenatomendes/"><img alt="Linkedin profile" title="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:joaorenatomendes@gmail.com"><img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" title="Email" width="100" height="30" /></a>
-   <a href="https://www.instagram.com/jaormds"><img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram" width="100" height="30" /></a>
-    <a href="https://t.me/joaormendes"><img alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" title="Telegram" width="100" height="30" /></a>
+
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaormendes)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaorenatomendes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorenatomendes/)
 
 </p>
 <hr \>
 <p align="center">
 
 
-
-<!--
-
+⭐️ From [João](https://github.com/rmendes1)
