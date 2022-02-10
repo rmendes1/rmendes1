@@ -34,6 +34,11 @@
                              
   
   
+#### Click [here](https://rmendes1.github.io/portfolio_projects/) to check my Portfolio
+
+- [Sales prediction in a drugstore company](https://github.com/rmendes1/rossmann_sales)
+- [Analysis of best prices for product sales in an e-commerce (webscraping)](https://github.com/rmendes1/star-jeans)
+- [Real estate identification for purchase/sales to maximize profits](https://github.com/rmendes1/house-rocket)
 
 
  Do :star: my work if you find it interesting, it helps me stay on track and be motivated
