@@ -10,7 +10,7 @@
  <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-  - 🎓 &nbsp; **Computer Engineering** Undergratuate Student.
+  - 🎓 &nbsp; **Computer Engineering** Undergratuate.
   - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**.
   - 💼 &nbsp; I’m currently working on **Data Science/Machine Learning** projects.
   - 🌱 &nbsp; Learning more about **ML, AI and DevOps**.
