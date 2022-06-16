@@ -3,6 +3,8 @@
 <h3 align="center">🚀 Web Development | Data Science | Back-end | Open Source ♥ | DevOps  🚀</h3>
 <div>
   
+![Spotify](https://spotify-github-rmendes1.vercel.app/api/spotify)](https://open.spotify.com/user/12160623378)
+  
 <br>
 <img align="right" height="280" width="450"  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
  
