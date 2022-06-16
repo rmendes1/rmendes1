@@ -19,7 +19,8 @@
 
   <h2> Languages, Frameworks and Tools </h2>
   <div align="center">
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -76,11 +77,13 @@
   <hr>
   
   
-#### Click [here](https://rmendes1.github.io/portfolio_projects/) to check my Portfolio
+#### Here are some of my projects
 
 - [Sales prediction in a drugstore company](https://github.com/rmendes1/rossmann_sales)
 - [Analysis of best prices for product sales in an e-commerce (webscraping)](https://github.com/rmendes1/star-jeans)
 - [Real estate identification for purchase/sales to maximize profits](https://github.com/rmendes1/house-rocket)
+- [Twitter login functionality replica using Flask](https://github.com/rmendes1/tuirer_flask)
+- [Meetups forum using Django (readme in development)](https://github.com/rmendes1/album_meetups)
 
 
  Do :star: my work if you find it interesting, it helps me stay on track and be motivated
