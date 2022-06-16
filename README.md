@@ -1,20 +1,21 @@
 <h2 align="center"> Hi, I am João! Welcome to my Github page 👋 </h2>
 
-<h3 align="center">🚀 Web Development | Data Science | Machine Learning | Open Source ♥ | DevOps  🚀</h3>
+<h3 align="center">🚀 Web Development | Data Science | Back-end | Open Source ♥ | DevOps  🚀</h3>
 <div>
   
-<br />
-<img align="right" height="300" width="450"  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<br>
+<img align="right" height="280" width="450"  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
  
 
  <h3> 👨🏻‍💻 About Me </h3>
   
   - 🎓 &nbsp; Computer engineer, programmer, and technology enthusiast.
   - 💡 Always building better software, following good practices and using innovative technology that results in the automation of tasks, cost reduction, and company revenue.
-  - 💼 &nbsp; I’m currently working with **Python** projects, .
+  - 💼 &nbsp; I’m currently working with **Python** projects, more specifically with **Django**, **Elasticsearch**, and **Airflow**.
   - 🌱 &nbsp; Learning more about **JS frameworks and DevOps**.
   - ✍️ &nbsp;  My hobbies/side hustles include **reading, listening to music** and **playing the guitar**.  
-  
+  <br>
+  <hr>
 
   <h2> Languages, Frameworks and Tools </h2>
   <div align="center">
@@ -28,7 +29,6 @@
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-
   </div>
   
   <h2> Data Science Packs </h2>
@@ -55,9 +55,9 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
       <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </div>
   
   <h2> Code Version </h2>
@@ -66,10 +66,14 @@
         <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </div>
   
-  <h2>On learning</h2>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-                             
+  <h2>Learning now</h2>
+  <div align="center">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </div>          
+  
+  <hr>
   
   
 #### Click [here](https://rmendes1.github.io/portfolio_projects/) to check my Portfolio
@@ -91,5 +95,14 @@
 <hr \>
 <p align="center">
 
+## My Github's statistics
 
-⭐️ From [João](https://github.com/rmendes1)
+<p align=center>
+<img height=220 align=center src="https://github-readme-stats.vercel.app/api?username=rmendes1&show_icons=true&theme=dark" />
+<img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmendes1&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
+  </a>
+</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=rmendes1&theme=xcode" />
+
+With ❤️ From [João](https://github.com/rmendes1)
