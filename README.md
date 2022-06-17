@@ -1,16 +1,16 @@
 <h2 align="center"> Hi, I am João! Welcome to my Github page 👋 </h2>
 
 <h3 align="center">🚀 Web Development | Data Science | Back-end | Open Source ♥ | DevOps  🚀</h3>
-<div>
   
 <br>
-<img align="right" height="280" width="450"  alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
- 
+<a href="https://open.spotify.com/user/12160623378" target="_blank">
+<img align="right"  width="22%" src="https://spotify-github-profile.vercel.app/api/view?uid=12160623378&cover_image=true&theme=default" />
+</a>
 
  <h3> 👨🏻‍💻 About Me </h3>
   
   - 🎓 &nbsp; Computer engineer, programmer, and technology enthusiast.
-  - 💡 Always building better software, following good practices and using innovative technology that results in the automation of tasks, cost reduction, and company revenue.
+  - 💡 Always building better software, following good practices and using innovative technology that result in the automation of tasks, cost reduction, and company revenue.
   - 💼 &nbsp; I’m currently working with **Python** projects, more specifically with **Django**, **Elasticsearch**, and **Airflow**.
   - 🌱 &nbsp; Learning more about **JS frameworks and DevOps**.
   - ✍️ &nbsp;  My hobbies/side hustles include **reading, listening to music** and **playing the guitar**.  
