@@ -9,8 +9,8 @@
 
  <h3> 👨🏻‍💻 About Me </h3>
   
-  - 🎓 &nbsp; Computer engineer, programmer, and technology enthusiast.
-  - 💡 Always building better software, following good practices and using innovative technology that result in the automation of tasks, cost reduction, and company revenue.
+  - 🎓 &nbsp; I have a bachelor's degree in Computer Engineering at State University of Maranhão, Brazil.
+  - 💡 I'm always building better software, following good practices and using innovative technology that result in the automation of tasks, cost reduction, and company revenue.
   - 💼 &nbsp; I’m currently working with **Python** projects, more specifically with **Django**, **Elasticsearch**, and **Airflow**.
   - 🌱 &nbsp; Learning more about **JS frameworks and DevOps**.
   - ✍️ &nbsp;  My hobbies/side hustles include **reading, listening to music** and **playing the guitar**.  
