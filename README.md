@@ -77,7 +77,7 @@
   <h2>Learning now</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/VueJS-20232A?style=for-the-badge&logo=vue.js&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   </div>          
   
@@ -104,15 +104,3 @@
 </p>
 <hr \>
 <p align="center">
-
-## My Github's statistics
-
-<p align=center>
-<img height=220 align=center src="https://github-readme-stats.vercel.app/api?username=rmendes1&show_icons=true&theme=dark" />
-<img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmendes1&bg_color=20232a&title_color=61dafb&icon_color=a960ff&text_color=ffffff" />
-  </a>
-</p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=rmendes1&theme=xcode" />
-
-With ❤️ From [João](https://github.com/rmendes1)
