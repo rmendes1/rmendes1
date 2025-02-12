@@ -4,7 +4,7 @@
   
 <br>
 <a href="https://open.spotify.com/user/12160623378" target="_blank">
-<img align="right"  width="22%" src="https://spotify-github-profile.vercel.app/api/view?uid=12160623378&cover_image=true&theme=default" />
+<img align="right"  width="22%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160623378&cover_image=true&theme=default" />
 </a>
 
  <h3> 👨🏻‍💻 About Me </h3>
