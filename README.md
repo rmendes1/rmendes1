@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I am João! Welcome to my Github page 👋 </h2>
 
-<h3 align="center">🚀 Web Development | Data Science | Back-end | Open Source ♥ | DevOps  🚀</h3>
+<h3 align="center">🚀 Data Engineering | Back-end | Machine Learning | DevOps  🚀</h3>
   
 <br>
 <a href="https://open.spotify.com/user/12160623378" target="_blank">
@@ -11,8 +11,7 @@
   
   - 🎓 &nbsp; I have a bachelor's degree in Computer Engineering at State University of Maranhão, Brazil.
   - 💡 I'm always building better software, following good practices and using innovative technology that result in the automation of tasks, cost reduction, and company revenue.
-  - 💼 &nbsp; I’m currently working with **Python** projects, more specifically with **Django**, **Elasticsearch**, and **Airflow**.
-  - 🌱 &nbsp; Learning more about **JS frameworks and DevOps**.
+  - 💼 &nbsp; I’m currently working with **Data Engineering** projects, more specifically with **Databricks** and **AWS**.
   - ✍️ &nbsp;  My hobbies/side hustles include **reading, listening to music** and **playing the guitar**.  
   <br>
   <hr>
@@ -24,38 +23,38 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   </div>
   
-  <h2> Data Science Packs </h2>
+  <h2> Data Engineering Tools </h2>
   <div align="center"> 
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />   
-    <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />  
-    <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Spark-FFFFFF?style=for-the-badge&logo=Apache%20Spark&logoColor=orange" />
+    <img src="https://img.shields.io/badge/Databricks-808080?style=for-the-badge&logo=Databricks&logoColor=orange" /> 
+  </div>
+
+  <h2> Orchestration & Data Processing </h2>
+  <div align="center"> 
+    <img src="https://img.shields.io/badge/Apache%20Airflow-D1FFBD?style=for-the-badge&logo=Apache%20Airflow&logoColor=grey" />
+    <img src="https://img.shields.io/badge/Prefect-000000?style=for-the-badge&logo=Prefect&logoColor=white" /> 
   </div>
     
-  <h2> Databases </h2>
+  <h2> Databases & Storage </h2>
   <div align="center">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/BigQuery-FFFFFF?style=for-the-badge&logo=google%20BigQuery&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Trino-000435?style=for-the-badge&logo=Trino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redshift-006CA5?style=for-the-badge&logo=amazon%20redshift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cassandra-FFFFFF?style=for-the-badge&logo=Apache%20Cassandra&logoColor=black" />
   </div>
   
   <h2> Cloud </h2>
   <div align="center">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GCS-D3D3D3?style=for-the-badge&logo=Google%20Cloud&logoColor=blue"/>
   </div>
   
   <h2>Others</h2>
@@ -65,7 +64,7 @@
       <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+      
   </div>
   
   <h2> Code Version </h2>
@@ -76,9 +75,8 @@
   
   <h2>Learning now</h2>
   <div align="center">
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-    <img src="https://img.shields.io/badge/VueJS-20232A?style=for-the-badge&logo=vue.js&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache%20Kafka-FFFFFF?style=for-the-badge&logo=Apache%20Kafka&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Apache%20Nifi-D8D8D8?style=for-the-badge&logo=Apache%20Nifi&logoColor=grey"/>
   </div>          
   
   <hr>
