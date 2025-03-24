@@ -87,15 +87,13 @@
 - [Sales prediction in a drugstore company](https://github.com/rmendes1/rossmann_sales)
 - [Analysis of best prices for product sales in an e-commerce (webscraping)](https://github.com/rmendes1/star-jeans)
 - [Real estate identification for purchase/sales to maximize profits](https://github.com/rmendes1/house-rocket)
-- [Twitter login functionality replica using Flask](https://github.com/rmendes1/tuirer_flask)
-- [Meetups forum using Django (readme in development)](https://github.com/rmendes1/album_meetups)
+- [Data Lakehouse implementation with data from Deezer API using medallion architecture and Databricks](https://github.com/rmendes1/music_data_lake)
 
 
  Do :star: my work if you find it interesting, it helps me stay on track and be motivated
 
 <br>
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaormendes)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaorenatomendes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaorenatomendes/)
 
