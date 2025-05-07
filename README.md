@@ -9,12 +9,18 @@
 
  <h3> 👨🏻‍💻 About Me </h3>
   
-  - 🎓 &nbsp; I have a bachelor's degree in Computer Engineering at State University of Maranhão, Brazil.
-  - 💡 I'm always building better software, following good practices and using innovative technology that result in the automation of tasks, cost reduction, and company revenue.
+  - 💻 &nbsp; Python Developer / Data Engineer
+  - 🌎 &nbsp; Based in São Luís, Brazil
   - 💼 &nbsp; I’m currently working with **Data Engineering** projects, more specifically with **Databricks** and **AWS**.
-  - ✍️ &nbsp;  My hobbies/side hustles include **reading, listening to music** and **playing the guitar**.  
   <br>
-  <hr>
+
+Repository naming conventions:
+
+- `theory`: prefix to identify exploratory repos I created when learning something new. Contains summaries from things I have learned so far.
+- `de`: Data Engineering projects
+- `web`: Web Development projects
+- `da`: Data Analysis projects
+<hr>
 
   <h2> Languages, Frameworks and Tools </h2>
   <div align="center">
