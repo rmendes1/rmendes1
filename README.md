@@ -20,7 +20,6 @@ Repository naming conventions:
 - `de`: Data Engineering projects
 - `web`: Web Development projects
 - `da`: Data Analysis projects
-<hr>
 
   <h2> Languages, Frameworks and Tools </h2>
   <div align="center">
