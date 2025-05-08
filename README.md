@@ -1,8 +1,5 @@
 <h2 align="center"> Hi, I am João! Welcome to my Github page 👋 </h2>
 
-<h3 align="center">🚀 Data Engineering | Back-end | Machine Learning | DevOps  🚀</h3>
-  
-<br>
 <a href="https://open.spotify.com/user/12160623378" target="_blank">
 <img align="right"  width="22%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=12160623378&cover_image=true&theme=default" />
 </a>
