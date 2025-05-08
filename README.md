@@ -9,7 +9,7 @@
 
  <h3> 👨🏻‍💻 About Me </h3>
   
-  - 💻 &nbsp; Python Developer / Data Engineer
+  - 💻 &nbsp; Data Engineer and Developer at MindMiners
   - 🌎 &nbsp; Based in São Luís, Brazil
   - 💼 &nbsp; I’m currently working with **Data Engineering** projects, more specifically with **Databricks** and **AWS**.
   <br>
