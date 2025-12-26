@@ -6,7 +6,7 @@
 
  <h3> 👨🏻‍💻 About Me </h3>
   
-  - 💻 &nbsp; Data Engineer and Developer at MindMiners
+  - 💻 &nbsp; Analytics Engineer at ASAAS
   - 🌎 &nbsp; Based in São Luís, Brazil
   - 💼 &nbsp; I’m currently working with **Data Engineering** projects, more specifically with **Databricks** and **AWS**.
   <br>
